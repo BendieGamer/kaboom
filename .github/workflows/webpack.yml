@@ -1,4 +1,4 @@
-name: NodeJS with Webpack
+name: NoeJS with Webpack
 
 on:
   push:
